@@ -28,3 +28,12 @@ Métodos Crie uma classe Aluno com os atributos nome e nota. Implemente o métod
 [ver código](https://github.com/DPdhorodecki/Exerc-cios-em-TypeScript/blob/main/atividade3.ts)
 
 ---
+---
+atividade 4:
+
+this / self Crie uma classe Retangulo com os atributos largura e altura. Utilize this (ou self) para inicializá-los no construtor e implemente um método calcularPerimetro().
+---
+
+[ver código](https://github.com/DPdhorodecki/Exerc-cios-em-TypeScript/blob/main/atividade4.ts)
+
+---

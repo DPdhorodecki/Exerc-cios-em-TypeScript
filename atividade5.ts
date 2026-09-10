@@ -17,6 +17,6 @@ class ContaBancaria {
 
 }
 
-const contabancaria = new ContaBancaria (1000)
+const contabancaria = new ContaBancaria (1000);
 
-console.log(contabancaria.consultarSaldo())
+console.log(contabancaria.consultarSaldo());

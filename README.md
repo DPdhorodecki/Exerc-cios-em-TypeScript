@@ -19,3 +19,12 @@ Construtor Crie uma classe Produto com os atributos nome, preco e estoque, inici
 [ver código](https://github.com/DPdhorodecki/Exerc-cios-em-TypeScript/blob/main/atividade2.ts)
 
 ---
+---
+atividade 3:
+
+Métodos Crie uma classe Aluno com os atributos nome e nota. Implemente o método aprovado(), que deve retornar true quando a nota for maior ou igual a 6.
+---
+
+[ver código](https://github.com/DPdhorodecki/Exerc-cios-em-TypeScript/blob/main/atividade3.ts)
+
+---

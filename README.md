@@ -2,7 +2,8 @@
 Este repositório foi criado para depositar os exercícios da matéria introdução a programação
 ---
 ---
-atividade 1
+atividade 1:
+
 Classe e Objeto Crie uma classe Pessoa com os atributos nome e idade. Crie um objeto e exiba seus atributos.
 ---
 

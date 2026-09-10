@@ -37,3 +37,12 @@ this / self Crie uma classe Retangulo com os atributos largura e altura. Utilize
 [ver código](https://github.com/DPdhorodecki/Exerc-cios-em-TypeScript/blob/main/atividade4.ts)
 
 ---
+---
+atividade 5:
+
+Modificadores de acesso Crie uma classe ContaBancaria com o atributo saldo como privado. Implemente os métodos depositar(valor) e consultarSaldo(), sem permitir que o saldo seja alterado diretamente.
+---
+
+[ver código](https://github.com/DPdhorodecki/Exerc-cios-em-TypeScript/blob/main/atividade5.ts)
+
+---
